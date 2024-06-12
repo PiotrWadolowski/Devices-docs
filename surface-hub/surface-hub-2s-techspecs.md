@@ -29,7 +29,7 @@ ms.localizationpriority: Medium
 |**Sensors**| Doppler occupancy<sup>2</sup> <br> Accelerometer <br> Gyroscope |
 |**Audio/Video**| Full-range, front facing 3-way stereo speakers <br>Full band 8-element MEMS microphone array certified for use with Microsoft Teams up to 2.3 meters away<br>Microsoft Surface Hub 2S Camera, 4K, USB-C connection, 90-degree HFOV |
 |**Pen**| Microsoft Surface Hub Pen (active) |
-|**Software<sup>3</sup>**| Windows 10 <br> Microsoft Teams for Surface Hub <br> Skype for Business <br> Microsoft Whiteboard <br> Microsoft Office (Mobile) <br> Microsoft Power BI |
+|**Software<sup>3</sup>**| Windows 10 Team OS <br> Microsoft Teams for Surface Hub <br> Skype for Business <br> Microsoft Whiteboard <br> Microsoft Office (Mobile) <br> Microsoft Power BI |
 |**Exterior**| Casing: Precision machined aluminum with mineral-composite resin <br> Color: Platinum <br> Physical Buttons: Power, Volume, Source |
 |**What’s in the box**| One Surface Hub 2S <br> One Surface Hub Pen  <br> One Surface Hub 2S Camera <br> 2.5 m AC Power Cable <br> Quick Start Guide |
 |**Warranty**| 1-year limited hardware warranty<sup>4</sup> |
